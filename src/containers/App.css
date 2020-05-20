@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower');
+
+img {
+	width: 250px;
+	height: 250px;
+}
+
+h2 {
+	font-family: 'Indie Flower', cursive;
+	font-weight: 200;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-weight: 200;
+	font-size: 5em;
+}
