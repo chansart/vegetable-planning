@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vegetable-planning/static/css/main.a5be1570.chunk.css",
+    "main.js": "/vegetable-planning/static/js/main.111c153e.chunk.js",
+    "main.js.map": "/vegetable-planning/static/js/main.111c153e.chunk.js.map",
+    "runtime-main.js": "/vegetable-planning/static/js/runtime-main.667d3ceb.js",
+    "runtime-main.js.map": "/vegetable-planning/static/js/runtime-main.667d3ceb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/vegetable-planning/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7f48e3bf.chunk.js": "/vegetable-planning/static/js/2.7f48e3bf.chunk.js",
+    "static/js/2.7f48e3bf.chunk.js.map": "/vegetable-planning/static/js/2.7f48e3bf.chunk.js.map",
+    "index.html": "/vegetable-planning/index.html",
+    "precache-manifest.2d14f161838a5529d24eb7cbbb4c198e.js": "/vegetable-planning/precache-manifest.2d14f161838a5529d24eb7cbbb4c198e.js",
+    "service-worker.js": "/vegetable-planning/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/vegetable-planning/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a5be1570.chunk.css.map": "/vegetable-planning/static/css/main.a5be1570.chunk.css.map",
+    "static/js/2.7f48e3bf.chunk.js.LICENSE.txt": "/vegetable-planning/static/js/2.7f48e3bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.667d3ceb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7f48e3bf.chunk.js",
+    "static/css/main.a5be1570.chunk.css",
+    "static/js/main.111c153e.chunk.js"
+  ]
+}
