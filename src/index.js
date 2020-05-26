@@ -1,14 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import { createStore, applyMiddleware } from 'redux';
+import { createLogger } from 'redux-logger';
 import './index.css';
 import App from './containers/App';
 import { vegetables } from './assets/vegetables';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
+import { searchVegetables } from './reducers';
+
+const logger = createLogger();
+const store = createStore(searchVegetables, applyMiddleware(logger));
+
 ReactDOM.render(
   <React.StrictMode>
-    <App vegetables={ vegetables } />
+  	<Provider store={ store }>
+    	<App vegetables={ vegetables } />
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );
